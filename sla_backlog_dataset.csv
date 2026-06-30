@@ -1,0 +1,5 @@
+week,cases_received,cases_closed,avg_tat_hours,sla_adherence,backlog,exceptions,team_capacity
+W1,820,790,36,0.86,120,42,900
+W2,910,870,39,0.83,160,55,900
+W3,940,920,34,0.88,180,46,950
+W4,1000,980,31,0.91,200,39,1000

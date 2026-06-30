@@ -1,0 +1,5 @@
+metric,assumption,value
+TAM,Total addressable revenue pool,500000000
+SAM,Reachable segment after geography and category filter,80000000
+SOM Year 1,Conservative capture rate of SAM,0.005
+Year 1 Revenue,SAM x SOM,400000

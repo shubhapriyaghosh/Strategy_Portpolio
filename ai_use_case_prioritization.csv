@@ -1,0 +1,6 @@
+use_case,business_function,impact_score,feasibility_score,risk_score,priority
+Document Q&A,Operations,5,4,2,High
+Resume/JD matching,Recruitment,5,4,3,High
+Sales email summarization,Revenue,3,5,2,Medium
+Invoice anomaly detection,Finance,4,3,3,Medium
+Customer support triage,Support,4,4,3,High
